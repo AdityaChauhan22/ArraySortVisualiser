@@ -16,14 +16,3 @@
    - ### Merge Sort
    - ### Quick Sort
  
-
-  
-- ## [Demo Link](https://rgtechno.github.io/Sorting_Visualizer/) 
-
-<hr>
-
-# Credits 
-- ### [Dhruv Pasricha](https://github.com/DhruvPasricha)
-- ### [Rahul Gandhi](https://github.com/RGTechno)
-
-<hr>
